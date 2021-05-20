@@ -1,5 +1,5 @@
 # rails_tutorial
-技術バイトで使うことになったのでruby on rails のチュートリアルを走る
+技術バイト(?)っぽいのでruby on rails のチュートリアルを走ることになった
 
 [Ruby on Rails チュートリアル Michael Hartl](https://railstutorial.jp/chapters/beginning?version=5.1#cha-beginning) 著
 
